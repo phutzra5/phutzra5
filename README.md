@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--
-**phutzra5/phutzra5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**phutzra5/phutzra5** is a ✨git รีโมท เพิ่มต้นทางhttps://github.com/phutzra5/phutzra5.git
+ git branch -M main 
+git push -u origin main _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
